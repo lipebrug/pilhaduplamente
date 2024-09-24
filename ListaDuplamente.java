@@ -1,3 +1,5 @@
+// Por algum motivo eu escrevi pilha duplamente ao invés de lista duplamente no nome do repositório, mas acontece.
+
 public class ListaDuplamente<T> {
 
     private class Node<T> {
